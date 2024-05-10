@@ -1,0 +1,23 @@
+body{ background-color: palegoldenrod;
+    color: brown;
+
+}
+strong{ color: black;
+
+}
+   
+h1{ 
+    font-weight: bolder;
+    font-style: oblique;
+}
+span{ color: rgb(10, 10, 10);
+    border: 3px solid rgb(253, 250, 250); 
+  padding: 11px;
+}
+h3{
+    font-style: oblique;
+}
+
+
+
+
